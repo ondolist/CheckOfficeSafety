@@ -1,0 +1,1 @@
+C:\Users\samsung\AppData\Roaming\Microsoft\Windows\SendTo 에 lnk 파일 복사
