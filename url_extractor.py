@@ -5,7 +5,7 @@ import random
 import string
 import shutil
 import sys
-from urlextract import URLExtract
+#from urlextract import URLExtract
 
 print("-----------------------------------------------------------------------------------")
 print("File name: "+sys.argv[1])
